@@ -1,0 +1,28 @@
+----------------------------------------------------------------------------------
+b            Set battery ID
+bc           Set battery capacity (mAh)
+bp           Run battery-present test
+bt           Determine battery type
+cc           Constant current (c-rate, minutes, targetMA)
+comp         Compile from the keyboard
+compile      Compile a script from a named file
+d            Discharge battery (threshold1, threshold2, reboundSecs)
+dump         Hexdump SRAM
+heat         Display temperatures (ºC)
+help         Print this help file
+iget         Display shunt current (mA)
+j            Clear charge and discharge mAh "jugs"
+list         List contents of a compiled script
+memq         Report script memory pool usage
+off          Turn TLynx power off
+on           Turn TLynx power on.  Retains last voltage setting
+p            Precharge
+pgood        Show raw Pgood value
+power        Check that external power supply is on
+r            Compute charging and internal resistance
+run          Run the currently compiled script
+ver          Print firmware version
+vget         Print bus voltage
+vset         Set target voltage
+----------------------------------------------------------------------------------
+
