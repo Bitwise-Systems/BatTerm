@@ -40,5 +40,6 @@ inventory = {
     'AH': {'brand':'GP', 'size':'D', 'mAh':'7000', 'note':'sucks 3 amps and stays at 350mV'},
     'AI': {'brand':'GP', 'size':'AA', 'mAh':'700'},
     'AK': {'brand':'GP', 'size':'AA', 'mAh':'700'},
-    'AL': {'brand':'GP', 'size':'AA', 'mAh':'1300', 'note':'lazurus'}
+    'AL': {'brand':'GP', 'size':'AA', 'mAh':'1300', 'note':'CPR worked'},
+    'AM': {'brand':'GP', 'size':'AA', 'mAh':'1300', 'note':'Battery C with 1 ohm series resistor'}
 }
