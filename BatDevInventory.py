@@ -41,5 +41,6 @@ inventory = {
     'AI': {'brand':'GP', 'size':'AA', 'mAh':'700'},
     'AK': {'brand':'GP', 'size':'AA', 'mAh':'700'},
     'AL': {'brand':'GP', 'size':'AA', 'mAh':'1300', 'note':'CPR worked'},
-    'AM': {'brand':'GP', 'size':'AA', 'mAh':'1300', 'note':'Battery C with 1 ohm series resistor'}
+    'AM': {'brand':'GP', 'size':'AA', 'mAh':'1300', 'note':'Battery C with 1 ohm series resistor'},
+    'AN': {'brand':'GP', 'size':'AA', 'mAh':'1300', 'note':'Battery I with 1 ohm series resistor'}
 }
